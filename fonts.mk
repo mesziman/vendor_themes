@@ -17,4 +17,6 @@ PRODUCT_PACKAGES += \
     FontRobotoFlexOverlay \
     FontRubikOverlay \
     FontSonySketchOverlay \
+    FontSamsungOneSourceOverlay \
+    FontSanFranciscoDisplayProSourceOverlay \
     FontUbuntuOverlay

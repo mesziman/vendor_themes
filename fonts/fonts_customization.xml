@@ -849,4 +849,33 @@
         <font weight="900" style="italic">HarmonyOS-Sans-BlackItalic.ttf</font>
     </family>
     <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500"/>
+
+
+    <family customizationType="new-named-family" name="samsungone">
+        <font weight="400" style="normal">SamsungOne.ttf</font>
+    </family>
+    <alias name="samsungone-bold" to="samsungone" weight="600" />
+    <alias name="times" to="samsungone" />
+    <alias name="times new roman" to="samsungone" />
+    <alias name="palatino" to="samsungone" />
+    <alias name="georgia" to="samsungone" />
+    <alias name="baskerville" to="samsungone" />
+    <alias name="goudy" to="samsungone" />
+    <alias name="fantasy" to="samsungone" />
+    <alias name="ITC Stone Serif" to="samsungone" />
+
+    <family customizationType="new-named-family" name="sanfrancisco">
+        <font weight="400" style="normal">SanFranciscoDisplayPro.ttf</font>
+    </family>
+    <alias name="sanfrancisco-semi-bold" to="sanfrancisco" weight="600" />
+    <alias name="sanfrancisco-bold" to="sanfrancisco" weight="700" />
+    <alias name="times" to="sanfrancisco" />
+    <alias name="times new roman" to="sanfrancisco" />
+    <alias name="palatino" to="sanfrancisco" />
+    <alias name="georgia" to="sanfrancisco" />
+    <alias name="baskerville" to="sanfrancisco" />
+    <alias name="goudy" to="sanfrancisco" />
+    <alias name="fantasy" to="sanfrancisco" />
+    <alias name="ITC Stone Serif" to="sanfrancisco" />
+
 </fonts-modification>
